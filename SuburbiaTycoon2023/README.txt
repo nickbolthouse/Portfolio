@@ -1,8 +1,1 @@
-IF YOU ENCOUNTER PROBLEMS BUILDING/COMPILING
-
-
-I couldn't quite get Maven or java's built-in packaging working, so it doesn't build right (for some reason). However, I was able to compile it on my macOS machine with "javac -d . {filename}" by compiling the files in this order: 
-
-HousingUnit, Lot, GameState, Event, InputParser, Game, and Driver. 
-
-This might just be a unix thing, but for some reason compiling in a subdirectory worked. If not, try concatenating them into a single file then running that or let me know so we can work out a solution.
+This is a copy of a college project I submitted. It is a game played directly in the command line (or unix shell), similarly to Star Treck (1971). The premise is that you play the role of a RealEstate developer, trying to make a profit while balancing the ongoing maintainance, tennants, and new environmental legislation. It wasn't ever completed the way I had wished, but for ~30 hours of work, it is a respectable result. Hopefully in the future I will have time to properly finish the game I designed.
