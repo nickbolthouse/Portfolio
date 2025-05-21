@@ -1,0 +1,68 @@
+An opportunity arises to purchase a neglected lot. The area is known for its historical value and there's a growing demand for eco-friendly housing. Do you invest in this lot to develop a sustainable living space?
+2
+Purchase the lot
+Decline the offer
+-100000 -100 -1 0 0 1 0
+0 0 0 0 0 0 0
+On New Year’s Eve your electrical company has alerted you that the power will be down for several hours due to a poorly-timed squirrel decision. This is the third major power line issue in a month. However the only other provider runs on oil.
+2
+Swap
+Tough it out
+-5000 100 1 0 5 0 1
+0 0 0 0 -5 0 0
+A riot has broken out nearby. Several buildings have had their windows destroyed. You can either brick up half of the windows and replace the remaining ones with clear plastic replace the single-pane glass or upgrade to double-panel storm windows
+3
+Brick up
+Replace
+Upgrade
+-10000 50 1 0 -10 -2 3
+-5000 0 1 0 0 0 0
+-20000 -100 1 5 10 2 3
+Your building(s) has been experiencing repeated sewage blocks. You can put out a PSA to your residents (flyer email etc.) to tell them not to flush objects down the toilets replace the low-flow toilets to try and increase water pressure or replace the old PVC piping with larger-gauge copper pipes.
+3
+PSA
+Replace Toilets
+Replace Pipes
+0 0 0 0 0 0 0
+-5000 150 1 0 -5 2 3
+-15000 -100 1 5 5 3 3
+Government building inspectors have said your lots do not meet basic safety codes. Do you:
+2
+Fix the issues
+Ignore Them
+-10000 50 1 0 0 0 0
+-1000000 0 0 0 0 0 0
+Government building inspectors have said your lots do not meet climate codes. Will you
+2
+Fix the issues
+Fight the issue in court
+-10000 -100 1 0 0 2 2
+-5000 0 0 0 0 0 0
+Your residents have requested composting services. You can either contract a commercial composting company for pickups set up a bin on the roof or ignore them.
+3
+Ignore them
+Bin
+Contract
+0 0 0 0 0 0 0
+-100 -25 1 0 0 0 0
+-2000 -100 2 5 0 1 1
+A government initiative will give you kickbacks if you install solar panels on the roof of your buildings. Do you:
+2
+Ignore it
+Install
+0 0 0 0 0 0 0
+-5000 -100 1 5 5 2 4
+A new lot near a train station has been offered for sale for 75000.
+2
+Next
+Buy it
+0 0 0 0 0 0 0
+-75000 -100 -1 12 4 2 2
+A rat infestation has damaged the insulation in (several of) your building(s). Do you want to replace the fiberglass insulation upgrade to cellulose insulation or ignore it?
+3
+Ignore it
+Replace
+Upgrade
+0 100 1 0 0 0 0 
+-2000 0 1 0 0 0 0
+-10000 -150 1 10 0 2 3
